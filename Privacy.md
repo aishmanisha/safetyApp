@@ -4,7 +4,7 @@
 ## Privacy Policy
 
 This privacy policy document is to provide information on what, how, and why personal data or information is collected, used, and disclosed, when this software is utilized, and the choices you have associated with that data. 
-The objective of this policy document is to provide an open environment between developer and users of this software by openly stating what information the developer collects or not. By utilizing this software, it means you accept all the terms and conditions of the developer peculiar to only Panic Trigger software. This Policy applies to this software only, and the developer would not be held responsible for the content or privacy practices on any third party app not operated by the developer to which this software links or that links to this software, therefore it is advisable to read up the privacy policies of third party services that may be linked to this software. 
+The objective of this policy document is to provide an open environment between developer and users of this software by openly stating what information the developer collects or not. By utilizing this software, it means you accept all the terms and conditions of the developer peculiar to only App software. This Policy applies to this software only, and the developer would not be held responsible for the content or privacy practices on any third party app not operated by the developer to which this software links or that links to this software, therefore it is advisable to read up the privacy policies of third party services that may be linked to this software. 
 
 ---
 
@@ -12,7 +12,7 @@ The objective of this policy document is to provide an open environment between 
 
 For a better and enhanced utilization, the software is designed to request provision of certain personally identifiable information. Which is the enablement of several permissions, for it to work properly on the device on which the software's services are intended.
   
-Panic Trigger requires the enablement of the following permissions; 
+App requires the enablement of the following permissions; 
 
 - Location. 
 - SMS.
@@ -90,14 +90,9 @@ Your contact(s) can trigger your alarm with a simple SMS and vice versa. If your
 
 ## About
 
-PanicTrigger is an Android app which can help you in case of an emergency situation. In case of an emergency, you tap on a big red button which causes the app to send out SMS to your pre-configured contacts without comfirmation. 
+It is an Android app which can help you in case of an emergency situation. In case of an emergency, you tap on a big red button which causes the app to send out SMS to your pre-configured contacts without comfirmation. 
 PanicTrigger runs in the background and listens for incoming SMS. If an incoming SMS contains a specific word and is from a specific number, then an alarm will go off and call the sender of the SMS in one minute.
 
-## Donate
-If you value this work, you can help it. Buy the developer a coffee. Send your donations to any of these addresses;
-
-Bitcoin: `bc1q7my587hlr375h440fydljqaut02wr5jxf09fzw`
-Monero:`47JuiUvKZXL7by3drpFTxHgv9DWPgj9pP8TMiGqxdZugEAVKUXwok2Hbopdc8qYBnLNuQdR6VptmFiDqByRVMVX3Ra8vw9j`
 
 ---
       
