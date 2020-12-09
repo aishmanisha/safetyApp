@@ -1,4 +1,4 @@
-# Panic Trigger Privacy policy
+# App Privacy policy
 
 
 ## Privacy Policy
